@@ -1,9 +1,10 @@
 // List of questions, choices, and answers
 var questions = [
   {
-    title: "Inside which HTML element do we put the Javascript?",
-    choices: ["<js>", "<scripting>", "<script>", "<javscript>"],
-    answer: "<script>"
+    title:
+      "Which of the following function of Boolean object returns a string of either 'true' or 'false' depending upon the value of the object?",
+    choices: ["toSource()", "valueOf()", "toString()"],
+    answer: "toString()"
   },
   {
     title: "JavaScript is _______ language",
