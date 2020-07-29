@@ -1,5 +1,4 @@
 
-# Homework-4
 Coding Quiz Challenge!
 
 Learn Javascript with this free quiz!
