@@ -15,3 +15,6 @@ GOOD LUCK & GOOD VIBES
 Check it out here: 
 
 https://tajohnsonn.github.io/Quiz-Challenge/
+
+<img width="1386" alt="Screen Shot 2020-07-28 at 7 31 36 PM" src="https://user-images.githubusercontent.com/57122209/88749861-16768b80-d109-11ea-88bd-1dc06c90e1b0.png">
+
